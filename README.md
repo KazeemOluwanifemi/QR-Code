@@ -46,4 +46,4 @@ I look forward on learning more on CSS generally, different ways to style a site
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@KazeemOluwanifemi](https://www.frontendmentor.io/profile/yourusername)
